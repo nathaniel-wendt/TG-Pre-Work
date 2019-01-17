@@ -1,0 +1,14 @@
+
+/* I added:
+<head>
+  <title>Vacation World</title>
+  <style>
+    p {
+      font-family: Arial;
+    }
+  </style>
+</head>
+
+to the HTML file */
+
+/* Using Styles in HTML is bad practice, we should strive to "separate our concerns" */
