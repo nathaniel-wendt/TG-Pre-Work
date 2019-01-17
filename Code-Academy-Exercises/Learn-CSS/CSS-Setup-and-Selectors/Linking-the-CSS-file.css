@@ -1,0 +1,8 @@
+/* I added:
+<head>
+  <title>Vacation World</title>
+  <link href="./style.css" type="text/css" rel="stylesheet">
+</head>
+ */
+
+ /* You must link separate files otherwise the HTML file won't be able to locate the CSS file and the styles won't be applied */
