@@ -1,0 +1,5 @@
+p {
+  font-family: Arial;
+}
+
+/* Separating the CSS file allows you to style a page without sacrificing the readibility of your HTML file */
