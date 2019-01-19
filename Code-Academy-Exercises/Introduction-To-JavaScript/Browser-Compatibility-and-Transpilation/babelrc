@@ -1,0 +1,5 @@
+{
+  "presets": ["env"]
+}
+
+// I learned that "presets": ["env"] to specify that we are transpiling code from an ES6+ source
